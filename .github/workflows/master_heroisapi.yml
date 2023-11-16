@@ -54,4 +54,4 @@ jobs:
           app-name: 'HeroisApi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A052EE6A59004C7AA2AC22DC145F5A6C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_093DA9642C9B45E08A4120DC731CEDC4 }}
